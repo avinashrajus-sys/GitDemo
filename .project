@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>FreeCRMTest</name>
+=======
+	<name>ExtentReports</name>
+>>>>>>> 1287586fa14a67579f75f0d929158852d66a337e
 	<comment></comment>
 	<projects>
 	</projects>
