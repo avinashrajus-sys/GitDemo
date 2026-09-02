@@ -19,8 +19,6 @@ public class HomePageTest extends TestBase {
 
 	public HomePageTest() {
 		super();
-		System.out.println("Hello Boss");
-		System.out.println("Hello Guest");
 	}
 
 	//test cases should be separated -- independent with each other
@@ -62,7 +60,6 @@ public class HomePageTest extends TestBase {
 	public void tearDown(){
 		driver.quit();
 	}
-	
 	
 	
 
